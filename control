@@ -1,0 +1,8 @@
+Package: com.example.deezersirifix
+Name: DeezerSiriFix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Désactive INVocabulary/Siri pour Deezer dans LiveContainer
+Maintainer: you
+Author: you
+Section: Tweaks
